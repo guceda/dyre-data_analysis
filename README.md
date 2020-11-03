@@ -5,7 +5,7 @@ Data analysis for the Dyre project.
 
 
 ## Online development 🔧
-1. Click  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guceda/dyre_ds/HEAD)
+1. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guceda/dyre_ds/HEAD)
 2. Enjoy.
 
 If step 1. does not work: 
