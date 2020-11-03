@@ -10,7 +10,7 @@ Open a preview [HERE](https://github.com/guceda/dyre_ds/blob/main/quantitative_a
 3. Launch jupyter notebook: `jupyter notebook`
 2. Open the file `quantitative_analysis.ipynb`
 
-:warning: **WARNING**: Don't forget to push or save the changes!
+:warning: **WARNING**: Don't forget to push or save the changes somehow!
 
 
 
@@ -26,5 +26,5 @@ If step 1. does not work:
  
  :warning: **WARNING**: The libraries required, such as `numpy`, need to be defined inside the `requirements.txt` file in order to be accesible.
  
- :warning: **WARNING**: Don't forget to push or save the changes!
+ :warning: **WARNING**: Don't forget to push or save the changes somehow!
 
