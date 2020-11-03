@@ -2,6 +2,7 @@
 
 ## Description
 Data analysis for the Dyre project.
+Open a preview [HERE](https://github.com/guceda/dyre_ds/blob/main/quantitative_analysis.ipynb).
 
 ## Local development 🔧 (`jupyter notebook` and related stuff need to be installed).
 1. Clone the repo: `git clone https://github.com/guceda/dyre_ds.git`.
