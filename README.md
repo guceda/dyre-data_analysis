@@ -1,2 +1,3 @@
-# dyre-data_analysis
-data analysis for the Dyre project
+# Dyre data analysis
+
+Data analysis for the Dyre project.
