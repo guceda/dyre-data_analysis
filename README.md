@@ -18,9 +18,9 @@ Open a preview [HERE](https://github.com/guceda/dyre_ds/blob/main/quantitative_a
 2. Enjoy.
 
 If step 1. does not work: 
- 1. Go to https://mybinder.org 
- 2. Paste the following url https://github.com/guceda/dyre_ds as GitHub repository name or URL.
- 3. Click `launch` and enjoy.
+ 3. Go to https://mybinder.org 
+ 4. Paste the following url https://github.com/guceda/dyre_ds as GitHub repository name or URL.
+ 5. Click `launch` and enjoy.
  
  :warning: **WARNING**: The libraries required, such as `numpy`, need to be defined inside the `requirements.txt` file in order to be accesible.
  
